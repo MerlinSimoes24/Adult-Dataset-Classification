@@ -1,14 +1,3 @@
-# CSP571Project
-
-# Group Details:
-Group Number 10
-Group Members:
-1. Merlin Santano Simoes (A20531255)
-2. Harneet Kaur Dehiya (A20548613)
-3. Sana Samad (A20543001)
-4. Owaiz Majoriya (A20546104)
-5. Belthangady Akash V Narayana Pai (A20560317)
-
 # Description:
 This project involved data analysis and classification using the Adult Dataset from the UCI Machine Learning Repository. The objective is to predict whether an individual's income exceeds $50,000 based on various demographic and work-related attributes.  
 
